@@ -21,4 +21,3 @@ class SendTask extends PluginTask{
 		$this->getHandler()->cancel();
 	}
 }
-?>
